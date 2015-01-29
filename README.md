@@ -1,6 +1,3 @@
-[TaskStep](http://www.taskstep.org) - Todo list manager for local PHP servers
-================================
-
 Features
 ---
 
@@ -14,6 +11,5 @@ Features
 Project History
 ---
 
-TaskStep was originally designed by [Rob Lowcock](http://www.cunningtitle.com), who began the project in 2006. In March 2008, he handed it off to me ([eromba](https://www.github.com/eromba)), after I refactored much of the existing code base.
+TaskStep was originally designed by [Rob Lowcock](http://www.cunningtitle.com), who began the project in 2006. In March 2008, he handed it off to [eromba](https://www.github.com/eromba), after eromba refactored much of the existing code base, Wittles as now taken a fork of this in the hopes to update it and and new functions
 
-The code hasn't been touched since then (and it could use a complete rewrite), but I am leaving it here for the open-source masses. Please fork if you feel inspired -- I will gladly accept pull requests!
