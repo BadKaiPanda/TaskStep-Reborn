@@ -1,3 +1,8 @@
+TaskStep Reborn
+---
+Todo list manager for local PHP servers, this is based on [TaskStep](http://www.taskstep.org)
+
+
 Features
 ---
 
@@ -7,6 +12,7 @@ Features
 - Automatically list all items for today
 - Current and overdue items are highlighted automatically
 - Free and open-source
+
 
 Project History
 ---
